@@ -9,6 +9,6 @@
 
 
 
-export const server = "https://eshop-backend-3gbyr0c5o-yogesh0580.vercel.app/api/v2";
+export const server = "https://eshop-backend-eujmb74kt-yogesh0580.vercel.app/api/v2";
 
-export const backend_url = "https://eshop-backend-3gbyr0c5o-yogesh0580.vercel.app/"
+export const backend_url = "https://eshop-backend-eujmb74kt-yogesh0580.vercel.app/"
